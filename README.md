@@ -30,7 +30,7 @@ Jalankan aplikasi Streamlit untuk mendeteksi dropout mahasiswa dengan perintah b
 ```
 streamlit run app.py
 ```
-Atau dapat langsug mengakses link online berikut: [streamlit](https://dropout-student-analysis.streamlit.app/)
+atau dapat langsug mengakses link online berikut: [streamlit](https://dropout-student-analysis.streamlit.app/)
 
 Repositori ini berisi beberapa file utama:
 - **model/**: Folder yang berisi model.pkl dan scaler.pkl.
